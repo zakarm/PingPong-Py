@@ -12,7 +12,7 @@ Implementation of the classic Ping Pong game using python3
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ping-pong.git
+git clone https://github.com/zakarm/PingPong-Py.git
 ```
 
 2. Install pygame lib
